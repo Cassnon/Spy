@@ -1,0 +1,23 @@
+{
+  "name": "spy",
+  "version": "1.0.0",
+  "description": "Kitten spy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cassnon/Spy.git"
+  },
+  "keywords": [
+    "Kitten",
+    "Spy"
+  ],
+  "author": "Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cassnon/Spy/issues"
+  },
+  "homepage": "https://github.com/Cassnon/Spy#readme"
+}
